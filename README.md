@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![image](https://www.codewars.com/users/thruwer/badges/small)
+![Codewars](https://github.r2v.ch/codewars?user=thruwer&stroke=%23BB432C)
